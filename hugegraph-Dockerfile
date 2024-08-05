@@ -1,1 +1,1 @@
-from hugegraph/hugegraph:last
+FROM hugegraph/hugegraph:last
